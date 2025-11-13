@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # krashi_ai
 
 A new Flutter project. for farmer and buyers
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# krishiAI
+>>>>>>> 3df70e889b613e1c4f2fc15cba28aeb19fd6c76e
